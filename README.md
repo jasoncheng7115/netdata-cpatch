@@ -11,7 +11,7 @@ netdata 是非常實用且即時的效能監視套件，對於每項效能指標
 
 ## 使用說明
 
-請將這四個檔案下載後，覆蓋至以下路徑。
+請將這四個檔案下載後，覆蓋至以下路徑，請先備份，請先備份，請先備份。
 
   /usr/share/netdata/web/dashboard_info.js   
   /usr/share/netdata/web/dashboard.js   
