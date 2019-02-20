@@ -16,7 +16,7 @@ netdata 是非常實用且即時的效能監視套件，對於每項效能指標
   /usr/share/netdata/web/main.js   
   /usr/share/netdata/web/index.html   
     
-覆蓋完成後請檢查檔案擁有者與群組是否為 netdata:netdata，若不是請使用 `chown netdata:netdata 檔名` 調整。
+覆蓋完成後請檢查檔案擁有者與群組是否為 `netdata:netdata`，若不是請使用 `chown netdata:netdata 檔名` 調整。
 
 
 完成後，請重新整理網頁，或 Chrome 無效請結束所有 Chrome process 再重新開啟。
