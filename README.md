@@ -30,26 +30,26 @@
 #### 繁體中文後介面
 &nbsp;&nbsp;
 系統概觀
-![image](https://raw.githubusercontent.com/jasoncheng7115/netdata-cpatch/master/screenshot01.png)
+![image](https://raw.githubusercontent.com/jasoncheng7115/netdata-cpatch/master/screenshot_01.png)
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 
 &nbsp;&nbsp;
 KSM & NUMA
-![image](https://raw.githubusercontent.com/jasoncheng7115/netdata-cpatch/master/screenshot02.png)
+![image](https://raw.githubusercontent.com/jasoncheng7115/netdata-cpatch/master/screenshot_02.png)
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 
 &nbsp;&nbsp;
 容器
-![image](https://raw.githubusercontent.com/jasoncheng7115/netdata-cpatch/master/screenshot03.png)
+![image](https://raw.githubusercontent.com/jasoncheng7115/netdata-cpatch/master/screenshot_03.png)
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 
 
 &nbsp;&nbsp;
 設定
-![image](https://raw.githubusercontent.com/jasoncheng7115/netdata-cpatch/master/screenshot04.png)
+![image](https://raw.githubusercontent.com/jasoncheng7115/netdata-cpatch/master/screenshot_04.png)
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 
