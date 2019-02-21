@@ -13,10 +13,10 @@ netdata 是非常實用且即時的效能監視套件，對於每項效能指標
 
 請將這四個檔案下載後，覆蓋至路徑 `/usr/share/netdata/web/` ，請先備份，請先備份，請先備份。
 
-  dashboard_info.js   
-  dashboard.js   
-  main.js   
-  index.html   
+ -  dashboard_info.js   
+ -  dashboard.js   
+ -  main.js   
+ -  index.html   
  
 
   
