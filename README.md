@@ -11,12 +11,15 @@ netdata 是非常實用且即時的效能監視套件，對於每項效能指標
 
 ## 使用說明
 
-請將這四個檔案下載後，覆蓋至以下路徑，請先備份，請先備份，請先備份。
+請將這四個檔案下載後，覆蓋至路徑 `/usr/share/netdata/web/` ，請先備份，請先備份，請先備份。
 
-  /usr/share/netdata/web/dashboard_info.js   
-  /usr/share/netdata/web/dashboard.js   
-  /usr/share/netdata/web/main.js   
-  /usr/share/netdata/web/index.html   
+  dashboard_info.js   
+  dashboard.js   
+  main.js   
+  index.html   
+ 
+
+  
     
 覆蓋完成後請檢查檔案擁有者與群組是否為 `netdata:netdata`，若不是請使用 `chown netdata:netdata 檔名` 調整。
 
